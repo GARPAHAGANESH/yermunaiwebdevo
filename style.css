@@ -1,0 +1,16 @@
+body{
+  position: relative;
+  padding-bottom: 250px;
+  min height: 100vh;
+}
+footer {
+  height: 200px;
+  width: 100px;
+  text-align: center;
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
